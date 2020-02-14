@@ -3,6 +3,7 @@ Connections with other alters in the Florence Nightingale egonet.
 | Alter  | Reference|
 | ------------- |------------- |
 | [Charles Bracebridge](https://github.com/altealo/CharlesBracebridge/blob/master/README.md)  |[Wikipedia. *Selina Bracebridge.*](https://en.wikipedia.org/wiki/Selina_Bracebridge)|
+| [Sidney Herbert](https://github.com/altealo/SidneyHerbert/blob/master/README.md)  |[Vaughan Cole, B. *Florence Nightingale: One Woman’s Vision.*](http://files.lib.byu.edu/exhibits/nightingale/downloads/HouseofLearningLecture.pdf)|
 | [Mary Clarke/Mohl](https://github.com/altealo/MaryClarke/blob/master/README.md)  |[McDonald, L. *Florence Nightingale on Women, Medicine, Midwifery and Prostitution.*](https://books.google.co.uk/books?id=Yuh0CwAAQBAJ&pg=PR11&lpg=PR11&
 | [Fanny Nightingale](https://github.com/altealo/FannyNightingale/blob/master/README.md)  |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
 | [William Nightingale](https://github.com/altealo/WilliamNightingale/blob/master/README.md)  |[Bostridge, M. *Florence Nightingale: The woman and her legend.*](https://books.google.co.uk/books?id=OsCiBgAAQBAJ&lpg=PR334&pg=PP1#v=onepage&q&f=false)|
